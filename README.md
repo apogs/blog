@@ -1,3 +1,3 @@
 # Blog
 
-Collection of my articles and pubblications
+Collection of my articles and publications
